@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout code from Git
-                git branch: 'main', url: 'https://github.com/multi-lang/multi-lang-services.git'
+                git branch: 'main', url: 'https://github.com/dhananjayshk/multi-lang.git'
             }
         }
 
