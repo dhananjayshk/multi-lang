@@ -1,0 +1,11 @@
+/home/dhananjay/workspace/treeleaf/workspace/multi-lang-services/rust-service/target/release/deps/libsocket2-e34f0c9d89469025.rmeta: /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/lib.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockaddr.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/socket.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockref.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sys/unix.rs
+
+/home/dhananjay/workspace/treeleaf/workspace/multi-lang-services/rust-service/target/release/deps/libsocket2-e34f0c9d89469025.rlib: /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/lib.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockaddr.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/socket.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockref.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sys/unix.rs
+
+/home/dhananjay/workspace/treeleaf/workspace/multi-lang-services/rust-service/target/release/deps/socket2-e34f0c9d89469025.d: /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/lib.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockaddr.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/socket.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockref.rs /home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sys/unix.rs
+
+/home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/lib.rs:
+/home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockaddr.rs:
+/home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/socket.rs:
+/home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sockref.rs:
+/home/dhananjay/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.9/src/sys/unix.rs:
